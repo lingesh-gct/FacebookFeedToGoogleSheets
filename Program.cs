@@ -378,8 +378,8 @@ namespace MillionMileRunningStats
         public const string ShortLivedAccessToken = "x";
         public const string MillionMilesGroupId = "1663123014002741";
         public const string TestGroupId = "380448308976825";
-        public const string client_secret = "d493302e6661888f5845a520a208cc45";
-        public const string client_id = "166208533864106";
+        public const string client_secret = "x";
+        public const string client_id = "x";
 
         // Exchanges access token for a long lived token.
         public static string ExchangeTokens()
